@@ -4,7 +4,7 @@
     "codeowners": ["@shuoxd","@ningning.huang"],
     "config_flow": true,
     "dependencies": [],
-    "documentation": "https://www.home-assistant.io/",
+    "documentation": "https://github.com/shuoxd-HA/HA/blob/main/README.md",
   
     "homekit": {},
     "iot_class": "cloud_polling",
