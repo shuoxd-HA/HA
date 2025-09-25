@@ -1,7 +1,6 @@
 {
   "name": "aecccloud",
   "content_in_root": false,
-  "domains": ["aecccloud"],
   "homeassistant": "2023.10.0",
   "country": "cn",
   "render_readme": false
