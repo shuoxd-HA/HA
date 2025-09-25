@@ -1,6 +1,6 @@
 {
-    "domain": "AeccCloud",
-    "name": "AeccCloud",
+    "domain": "aecccloud",
+    "name": "aecccloud",
     "codeowners": ["@shuoxd","@ningning.huang"],
     "config_flow": true,
     "dependencies": [],
