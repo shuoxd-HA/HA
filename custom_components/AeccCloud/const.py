@@ -1,0 +1,2 @@
+DOMAIN="AeccCloud"
+BASE_URL="https://monitor.ai-ec.cloud:8443"
